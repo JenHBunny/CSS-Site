@@ -1,0 +1,141 @@
+body {
+  margin: 0;
+  border: 0;
+  background-color: #92BA92;
+}
+
+h1 {
+  font-family: "Sacramento";
+  font-weight: 100;
+  color: #85586F;
+  font-size: 100px;
+  padding: 25px;
+  margin: 25px;
+  line-height: 1;
+  text-align: center;
+}
+
+p {
+  border: 0;
+  margin: 0;
+  padding: 0;
+  line-height: 1;
+  font-family: "Quicksand";
+  color: #94B49F;
+  font-size: 2.6rem;
+  font-weight: bold;
+  text-align: center;
+}
+
+h3 {
+  font-family: 'Indie Flower', cursive;
+  font-size: 35px;
+  color: #839AA8;
+  position: relative;
+  text-align: center;
+}
+
+a href {
+  text-align: center;
+}
+
+.bonjour {
+  color: #51557E;
+  font-family: "Indie Flower";
+  padding: 25px;
+  margin: 10;
+  text-align: center;
+}
+.ArcadeFire
+{font-family: "Sacramento";
+color: #DEB6AB;
+border:0;}
+.top-container {
+  margin: 0;
+  background-color: #F9EBC8;
+  height: 135%;
+  width: 100%;
+}
+
+.hedgehog {
+  background-color: #F9EBC8;
+  margin-bottom: 30px;
+  text-align: center;
+  position: relative;
+  left: 500px;
+  margin-top: 50px;
+}
+
+.hedgehogs {
+  background-color: #F9EBC8;
+  margin-bottom: 30px;
+  text-align: center;
+  position: relative;
+  right: 50px;
+  margin-top: 50px;
+}
+
+.hedgehogtwo {
+  background-color: #F9EBC8;
+  margin-bottom: 30px;
+  text-align: center;
+  position: relative;
+  left: 275px;
+  margin-top: 50px;
+}
+
+.middle-container {
+  background-color: #FEFBE7;
+  height: 200%;
+  width: 100%;
+  top: 10px;
+}
+
+.me {
+  height: 300px;
+  width: 250px;
+  display: inline-block;
+  position: relative;
+  left: 500px;
+  margin-top: 0;
+}
+
+.skills {
+  background-color: #DEB6AB;
+  height: 200%;
+}
+
+.fox {
+  float: left;
+  height: 500px;
+  position: relative;
+  bottom: 75px;
+}
+
+.bottom-container {
+  background-color: #A0BCC2;
+  height: 200%;
+  width: 100%;
+  text-align: center;
+}
+
+.color {
+  font-family: "Quicksand";
+  line-height: 2;
+  font-size: 2rem;
+  color: #FEFBE7;
+}
+.Website
+{font-family: "Quicksand";
+line-height: 2;
+font-size: 2rem;
+color: #FEFBE7;}
+.sources {
+  background-color: #92BA92;
+  height: 25px;
+  width: 100%
+}
+.Stickers
+{font-family: "Sacramento"; text-align: center;
+color: #FFEEEE;
+border:0;}
